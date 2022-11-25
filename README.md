@@ -1,4 +1,4 @@
-# Redes_neurais_com_transfer_learning
+# Redes neurais com transfer learning
 
 Projeto realizado como parte do Bootcamp DIO Ciência de Dados Unimed BH
 ## DESCRIÇÃO
